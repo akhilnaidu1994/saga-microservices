@@ -10,12 +10,12 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/akhilnaidu1994/saga-microservices.git</developerConnection>
-      <tag>microservice-1.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <groupId>org.akn</groupId>
     <artifactId>microservice</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
         <module>order-service</module>
