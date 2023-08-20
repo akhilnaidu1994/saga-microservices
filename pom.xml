@@ -10,6 +10,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
+    <scm>
+        <developerConnection>scm:git:https://github.com/akhilnaidu1994/saga-microservices.git</developerConnection>
+    </scm>
+
     <groupId>org.akn</groupId>
     <artifactId>microservice</artifactId>
     <version>1.0-SNAPSHOT</version>
